@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighRiskWeatherNotification_Console", "HighRiskWeatherNotification_Console\HighRiskWeatherNotification_Console.csproj", "{CCDBB74B-7E34-4B74-B03D-B90A0AA614B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDBB74B-7E34-4B74-B03D-B90A0AA614B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDBB74B-7E34-4B74-B03D-B90A0AA614B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDBB74B-7E34-4B74-B03D-B90A0AA614B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDBB74B-7E34-4B74-B03D-B90A0AA614B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 671d0dc7-77c5-4d4a-91e5-aa0bc1d1f6fc
+	EndGlobalSection
+EndGlobal

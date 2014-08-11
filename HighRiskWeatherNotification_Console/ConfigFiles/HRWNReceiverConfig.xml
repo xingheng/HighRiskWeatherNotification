@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HRWN>
+  <!--<Receiver>
+    <UserName></UserName>
+    <NickName></NickName>
+    <FeitionAccount></FeitionAccount>
+    <Location>
+      <PM25>
+        -->
+        <!-- For PM25.in, the city name characters should be lower case, like 'beijing' or 'wuhan'-->
+          <!--
+        <CityName></CityName>
+        <StationName></StationName>
+      </PM25>
+      <OWM>
+        <CityID></CityID>
+        <CityName></CityName>
+        <CityNickName></CityNickName>
+        <Coordinary lon="" lat=""/>
+      </OWM>
+    </Location>
+  </Receiver>-->
+  <Receiver>
+    <UserName>***REMOVED***</UserName>
+    <NickName>***REMOVED***</NickName>
+    <FeitionAccount>***REMOVED***</FeitionAccount>
+    <Location>
+      <PM25 IsEnabled="0">
+        <CityName>beijing</CityName>
+        <StationName>农展馆</StationName>
+      </PM25>
+      <OWM>
+        <CityID></CityID>
+        <CityName>Beijing, CN</CityName>
+        <CityNickName>***REMOVED***</CityNickName>
+        <Coordinary lat="" lon=""/>
+      </OWM>
+    </Location>
+  </Receiver>
+  <Receiver>
+    <UserName>***REMOVED***</UserName>
+    <NickName>***REMOVED***</NickName>
+    <FeitionAccount>***REMOVED***</FeitionAccount>
+    <Location>
+      <PM25 IsEnabled="1">
+        <CityName>beijing</CityName>
+        <StationName>海淀区万柳</StationName>
+      </PM25>
+      <OWM>
+        <CityID></CityID>
+        <CityName>Beijing,CN</CityName>
+        <CityNickName>***REMOVED***</CityNickName>
+        <Coordinary lat="" lon=""/>
+      </OWM>
+    </Location>
+  </Receiver>
+</HRWN>

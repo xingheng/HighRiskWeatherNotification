@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PM25.in>
+  <!-- Link: http://aqicn.org -->
+  <Level>
+    <Min>0</Min>
+    <Max>50</Max>
+    <PollutionLevel>Good</PollutionLevel>
+    <HealthImplications>Air quality is considered satisfactory, and air pollution poses little or no risk.</HealthImplications>
+  </Level>
+  <Level>
+    <Min>51</Min>
+    <Max>100</Max>
+    <PollutionLevel>Moderate</PollutionLevel>
+    <HealthImplications>Air quality is acceptable; however, for some pollutants there may be a moderate health concern for few people who are unusually sensitive to air pollution.</HealthImplications>
+  </Level>
+  <Level>
+    <Min>101</Min>
+    <Max>150</Max>
+    <PollutionLevel>Unhealthy for Sensitive Groups</PollutionLevel>
+    <HealthImplications>Members of sensitive groups may experience health effects. The general public is not likely to be affected.</HealthImplications>
+  </Level>
+  <Level>
+    <Min>151</Min>
+    <Max>200</Max>
+    <PollutionLevel>Unhealthy</PollutionLevel>
+    <HealthImplications>Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects.</HealthImplications>
+  </Level>
+  <Level>
+    <Min>201</Min>
+    <Max>300</Max>
+    <PollutionLevel>Very Unhealthy</PollutionLevel>
+    <HealthImplications>Health warnings of emergency conditions. The entire population is more likely to be affected.</HealthImplications>
+  </Level>
+  <Level>
+    <Min>301</Min>
+    <Max>9999</Max>
+    <PollutionLevel>Hazardous</PollutionLevel>
+    <HealthImplications>Health alert: everyone may experience more serious health effects.</HealthImplications>
+  </Level>
+</PM25.in>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HRWN>
+  <PM25.in>
+    <AQI>220</AQI>
+  </PM25.in>
+  <OWM>
+    <Weathers>
+      <Items>雨</Items>
+      <Items>雪</Items>
+      <Items>雾</Items>
+      <Items>雹</Items>
+    </Weathers>
+    <Temperatures>
+      <Items>
+        <Min>35</Min>
+        <Max>999</Max>
+      </Items>
+      <Items>
+        <Min>-999</Min>
+        <Max>-2</Max>
+      </Items>
+    </Temperatures>
+  </OWM>
+</HRWN>
